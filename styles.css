@@ -1,0 +1,25 @@
+body {
+    padding: 0%;
+    background-image: url(https://www.creativevillage.ne.jp/wp-content/uploads/2023/01/insert_128822_001.jpg);
+    width:100%;
+}
+header {
+    color : black;
+    background-color: whitesmoke;
+    opacity :0.5;
+    width :100%;
+    
+}
+
+h1 {
+    color:aliceblue;
+    font-size: 500%;
+}
+
+a {
+    color: aliceblue;
+    font-size: 300%;
+    text-decoration: none;
+    text-align: left;
+    float: left;
+}
